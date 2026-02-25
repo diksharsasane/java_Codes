@@ -1,4 +1,4 @@
-public class SelectionSort {
+public class Q3SelectionSort {
     private static int[] selectionSort(int arr[]){
         int n= arr.length;
         int val=0;
